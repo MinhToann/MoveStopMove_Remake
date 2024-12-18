@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dancing
+  m_Controller: {fileID: 9100000, guid: af2cf7787f062f4428a4e2c6abf049b2, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 6720303635017113406, guid: 38f9296dc39c27647a0119314baf12a2, type: 3}
+    m_OverrideClip: {fileID: 6720303635017113406, guid: 38f9296dc39c27647a0119314baf12a2, type: 3}
+  - m_OriginalClip: {fileID: -6842666708266138392, guid: 38f9296dc39c27647a0119314baf12a2, type: 3}
+    m_OverrideClip: {fileID: -6842666708266138392, guid: 38f9296dc39c27647a0119314baf12a2, type: 3}
+  - m_OriginalClip: {fileID: 1679763308670167783, guid: 38f9296dc39c27647a0119314baf12a2, type: 3}
+    m_OverrideClip: {fileID: 1679763308670167783, guid: 38f9296dc39c27647a0119314baf12a2, type: 3}
+  - m_OriginalClip: {fileID: 4821609917503249430, guid: 38f9296dc39c27647a0119314baf12a2, type: 3}
+    m_OverrideClip: {fileID: 4821609917503249430, guid: 38f9296dc39c27647a0119314baf12a2, type: 3}
+  - m_OriginalClip: {fileID: -2250548791150738156, guid: 38f9296dc39c27647a0119314baf12a2, type: 3}
+    m_OverrideClip: {fileID: -2250548791150738156, guid: 38f9296dc39c27647a0119314baf12a2, type: 3}
+  - m_OriginalClip: {fileID: 8273325049105940540, guid: 38f9296dc39c27647a0119314baf12a2, type: 3}
+    m_OverrideClip: {fileID: 8273325049105940540, guid: 38f9296dc39c27647a0119314baf12a2, type: 3}
+  - m_OriginalClip: {fileID: 9095686598229849690, guid: 38f9296dc39c27647a0119314baf12a2, type: 3}
+    m_OverrideClip: {fileID: 9095686598229849690, guid: 38f9296dc39c27647a0119314baf12a2, type: 3}

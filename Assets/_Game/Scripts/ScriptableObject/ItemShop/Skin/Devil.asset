@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 730093a0968bc224ebf8ea17d3140edd, type: 3}
+  m_Name: Devil
+  m_EditorClassIdentifier: 
+  <itemType>k__BackingField: 3
+  <prefabType>k__BackingField: 73
+  <colorType>k__BackingField: 0
+  <titleName>k__BackingField: Devil
+  <cost>k__BackingField: 200
+  <description>k__BackingField: +20% Attack Range
+  <spriteImage>k__BackingField: {fileID: 21300000, guid: c8aba6a73c964b246a09d3b395f43129, type: 3}

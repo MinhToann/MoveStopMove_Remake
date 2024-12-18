@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 730093a0968bc224ebf8ea17d3140edd, type: 3}
+  m_Name: Bunny
+  m_EditorClassIdentifier: 
+  <weaponItem>k__BackingField: {fileID: -2569072009083654509, guid: 3406706f7c8ded74c926f6568067df06, type: 3}
+  <skinItem>k__BackingField: {fileID: -2929571937532079119, guid: 7d5659c9223b8974c83331fa783998cb, type: 3}
+  <itemType>k__BackingField: 0
+  <prefabType>k__BackingField: 3
+  <titleName>k__BackingField: Bunny
+  <cost>k__BackingField: 50
+  <description>k__BackingField: Bunny Hat
+  <spriteImage>k__BackingField: {fileID: 21300000, guid: d29083fce4d4e2a409c3603042b592cb, type: 3}
+  <rawImg>k__BackingField: {fileID: 0}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 730093a0968bc224ebf8ea17d3140edd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - <weaponItem>k__BackingField: {fileID: -2569072009083654509, guid: 3406706f7c8ded74c926f6568067df06, type: 3}
+  - <skinItem>k__BackingField: {fileID: -2929571937532079119, guid: 7d5659c9223b8974c83331fa783998cb, type: 3}
+  - <spriteImage>k__BackingField: {instanceID: 0}
+  - <rawImg>k__BackingField: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
